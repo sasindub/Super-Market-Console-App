@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631034027 source:c:\users\sasin\desktop\supermarket\mysupermarket\main.cpp
+	<iostream>
+	<fstream>
+
